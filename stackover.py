@@ -45,7 +45,7 @@ def extract_jobs(last_page):
             job = extract_job(result)
             # print(result['data-jobid'])
             jobs.append(job)
-    print(jobs)
+    # print(jobs)
     return jobs
 
 
