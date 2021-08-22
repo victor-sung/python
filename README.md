@@ -1,6 +1,6 @@
-#python
+# python
 
-###pip freeze > requirements.txt 로 다음과 같이 설치된 의존성들을 txt화 할 수 있다.
+### pip freeze > requirements.txt 로 다음과 같이 설치된 의존성들을 txt화 할 수 있다.
 
 ---
 beautifulsoup4==4.9.3
